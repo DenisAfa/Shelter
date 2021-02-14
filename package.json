@@ -1,0 +1,27 @@
+{
+  "name": "denisafa-js2020q3",
+  "version": "1.0.0",
+  "description": "Private repository for @denisafa",
+  "main": "index.js",
+  "scripts": {
+    "style": "sass --watch shelter/pages/main/sass/style.scss shelter/pages/main/sass/style.css",
+    "pets_style": "sass --watch shelter/pages/pets/sass/style.scss shelter/pages/pets/sass/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolling-scopes-school/denisafa-JS2020Q3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolling-scopes-school/denisafa-JS2020Q3/issues"
+  },
+  "homepage": "https://github.com/rolling-scopes-school/denisafa-JS2020Q3#readme",
+  "dependencies": {
+    "webpack": "^5.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.1.0"
+  }
+}
